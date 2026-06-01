@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Hanaly 👋
 
-<!--
-**Hanaly-dev/Hanaly-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python Backend Developer
 
-Here are some ideas to get you started:
+Backend developer with 3+ years of Python experience and 2+ years of commercial experience building scalable web applications and REST APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+* Python
+* Django
+* Django REST Framework
+* FastAPI
+* PostgreSQL
+* Redis
+* Celery
+* Docker
+* Kubernetes
+* Linux
+* Git & GitHub
+
+### Professional Experience
+
+* Building scalable REST APIs
+* Designing backend architectures
+* Authentication & Authorization
+* Background task processing
+* Database optimization
+* Dockerized deployments
+* Unit & Integration Testing
+
+### Featured Projects
+
+#### E-Commerce Platform
+
+* Django DRF + FastAPI
+* Product management
+* Shopping cart
+* Order processing
+* Authentication system
+* Responsive UI using Bootstrap & HTMX
+
+#### Tourism & Estate Management System
+
+* Commercial project
+* Django + DRF + FastAPI
+* Production-ready backend architecture
+
+#### Restaurant & Cafe POS System
+
+* Django + DRF
+* Menu management
+* Order processing
+* Checkout workflow
+
+### Currently Learning
+
+* Distributed Systems
+* Advanced Kubernetes
+* System Design
+* Event-Driven Architecture
+* Cloud Technologies
+
+### Contact
+
+📧 Email: [hanalyyewhanaly002@gmail.com](mailto:hanalyyewhanaly002@gmail.com)
+
+🔗 GitHub: https://github.com/Hanaly-dev
+
+🔗 LinkedIn: linkedin.com/in/hanaly-hanalyyev-918302341
