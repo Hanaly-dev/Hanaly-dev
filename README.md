@@ -1,69 +1,139 @@
-# Hi, I'm Hanaly 👋
+# Hanaly Hanalyyew
 
-## Python Backend Developer
+### Backend Engineer | Django • FastAPI • PostgreSQL
 
-Backend developer with 3+ years of Python experience and 2+ years of commercial experience building scalable web applications and REST APIs.
+Building scalable backend systems, REST APIs, business automation platforms, and production-ready web applications.
 
-### Tech Stack
+---
+
+## About Me
+
+I'm a Python Backend Engineer focused on designing and developing reliable backend systems for real-world business applications.
+
+My primary expertise is in Django, Django REST Framework, FastAPI, PostgreSQL, Redis, and Celery. I enjoy solving complex business problems through clean architecture, scalable APIs, and maintainable software design.
+
+Currently expanding my knowledge in:
+
+* System Design
+* Distributed Systems
+* Kubernetes
+* Cloud Infrastructure
+* Event-Driven Architecture
+
+---
+
+## Core Technologies
+
+**Backend**
 
 * Python
 * Django
 * Django REST Framework
 * FastAPI
+
+**Databases**
+
 * PostgreSQL
 * Redis
-* Celery
+* SQLite
+
+**Infrastructure**
+
 * Docker
-* Kubernetes
+* Docker Compose
+* Nginx
+* Gunicorn
 * Linux
-* Git & GitHub
 
-### Professional Experience
+**Background Processing**
 
-* Building scalable REST APIs
-* Designing backend architectures
+* Celery
+* RabbitMQ
+* Redis
+
+**Testing**
+
+* Pytest
+* Selenium
+
+---
+
+## Featured Projects
+
+### Enterprise Resource Planning (ERP)
+
+Business management platform designed to automate operational workflows and centralize company processes.
+
+### Tourism & Estate Management System
+
+Commercial platform for managing tourism operations, customer interactions, and property-related workflows.
+
+### Restaurant & Cafe POS System
+
+Point-of-sale solution supporting menu management, order processing, checkout operations, and business reporting.
+
+### E-Commerce & Marketplace Platform
+
+Scalable multi-vendor marketplace platform built with Django, Django REST Framework, and FastAPI.
+
+**Features:**
+
 * Authentication & Authorization
-* Background task processing
-* Database optimization
-* Dockerized deployments
-* Unit & Integration Testing
+* Product Catalog Management
+* Multi-Vendor Marketplace
+* Shopping Cart System
+* Order Management
+* Customer & Seller Dashboards
+* Product Search & Filtering
+* REST API Architecture
+* PostgreSQL Database
+* Redis Caching
+* Celery Background Tasks
+* Responsive User Interface
+* Admin Management Panel
 
-### Featured Projects
+### Telegram Bot Integrations
 
-#### E-Commerce Platform
+Built Telegram bots integrated with web applications and backend services to automate business processes.
 
-* Django DRF + FastAPI
-* Product management
-* Shopping cart
-* Order processing
-* Authentication system
-* Responsive UI using Bootstrap & HTMX
+**Use Cases:**
 
-#### Tourism & Estate Management System
+* Marketplace Notifications
+* Order Status Updates
+* Customer Support Automation
+* Product Information Services
+* Admin Monitoring Tools
+* User Verification Workflows
+* Real-time Alerts & Messaging  
 
-* Commercial project
-* Django + DRF + FastAPI
-* Production-ready backend architecture
+## Engineering Interests
 
-#### Restaurant & Cafe POS System
-
-* Django + DRF
-* Menu management
-* Order processing
-* Checkout workflow
-
-### Currently Learning
-
-* Distributed Systems
-* Advanced Kubernetes
+* Backend Architecture
 * System Design
-* Event-Driven Architecture
-* Cloud Technologies
+* Distributed Systems
+* Performance Optimization
+* API Development
+* DevOps
+* Software Scalability
 
-### Contact
+---
 
-📧 Email: [hanalyyewhanaly002@gmail.com](mailto:hanalyyewhanaly002@gmail.com)
+## Portfolio
 
-🔗 GitHub: https://github.com/Hanaly-dev
+🌐 https://hanalyreal.pythonanywhere.com
 
-🔗 LinkedIn: linkedin.com/in/hanaly-hanalyyev-918302341
+---
+
+## Connect With Me
+
+📧 [hanalyyewhanaly002@gmail.com](mailto:hanalyyewhanaly002@gmail.com)
+
+💼 LinkedIn:
+https://linkedin.com/in/hanaly-hanalyyev-918302341
+
+🐙 GitHub:
+https://github.com/Hanaly-dev
+
+---
+
+> Building software that solves business problems, scales reliably, and remains maintainable over time.
